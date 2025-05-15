@@ -25,4 +25,6 @@
 
 [![Ваша статистика GitHub](https://github-readme-stats.vercel.app/api?username=OXYCRiNGE&show_icons=true&theme=radical)](https://github.com/OXYCRiNGE)
 
-[![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=OXYCRiNGE&layout=compact&theme=radical)](https://github.com/OXYCRiNGE)
+[![Топ языков](https://github-readme-streak-stats.herokuapp.com/?user=OXYCRiNGE&theme=radical)
+
+[![Статистика комитов](https://github-readme-stats.vercel.app/api/top-langs/?username=OXYCRiNGE&layout=compact&theme=radical)](https://github.com/OXYCRiNGE)
